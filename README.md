@@ -108,7 +108,5 @@ Testing set
 
 <img width="404" alt="image" src="https://github.com/user-attachments/assets/22daf557-6f59-476a-b346-ff0f72de504e" />
 
-
-
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
